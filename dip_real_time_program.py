@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 16 16:57:08 2022
-
-@author: Mensot
-"""
 import numpy as np
 import cv2
 import time
