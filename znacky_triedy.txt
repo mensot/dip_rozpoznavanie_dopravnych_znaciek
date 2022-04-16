@@ -1,0 +1,43 @@
+Najvyssia dovolena rychlost 20km/h
+Najvyssia dovolena rychlost 30km/h
+Najvyssia dovolena rychlost 50km/h
+Najvyssia dovolena rychlost 60km/h
+Najvyssia dovolena rychlost 70km/h
+Najvyssia dovolena rychlost 80km/h
+Koniec najvyssej dovolenej rychlosti 80km/h
+Najvyššia dovolena rychlost 100km/h
+Najvyššia dovolena rychlost 120km/h
+Zakaz predchadzania
+Zakaz predchadzania pre nakladne automobily
+Krizovatka s vedlajsou cestou
+Hlavna cesta
+Daj prednost v jazde!
+Stoj, daj prednost v jazde!
+Zakaz vjazdu vsetkych vozidiel v oboch smeroch
+Zakaz vjazdu nakladnych automobilov
+Zakaz vjazdu vsetkych vozidiel
+Ine nebezpecenstvo
+Zakruta vlavo
+Zakruta vpravo
+Dvojita zakruta, prva vlavo
+Nerovnost vozovky
+Nebezpecenstvo smyku
+Zuzena vozovka sprava
+Praca
+Svetelne signaly
+Priechod pre chodcov
+Deti
+Cyklisti
+Sneh alebo poladovica
+Zver
+Koniec viacerych zakazov
+Prikazany smer jazdy vpravo
+Prikazany smer jazdy vlavo
+Prikazany smer jazdy priamo
+Prikazany smer jazdy priamo a vpravo
+Prikazany smer jazdy priamo a vlavo
+Prikazany smer jazdy obchadzania vpravo
+Prikazany smer jazdy obchadzania vlavo
+Kruhovy objazd
+Koniec zakazu predchadzania
+Koniec zakazu predchadzania pre nakladne automobily

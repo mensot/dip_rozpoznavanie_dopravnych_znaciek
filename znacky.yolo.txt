@@ -1,0 +1,4 @@
+zakazove
+vystrazne
+prikazove
+ostatne
